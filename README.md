@@ -4,9 +4,9 @@ Hi 👋 My name is Martin
 I'm a Web Developer working with React, TypeScript and NextJS.
 -------------
 
-* 🌍  I'm based in Brno, Czech republic
+* 🌍  Based in Brno, Czech republic
 * ✉️  You can contact me at [martin@jordan.cz](mailto:martin@jordan.cz)
-* 🚀  I'm currently working on [Reservio](http://www.reservio.com)
+* 🚀  Currently working on [Reservio](http://www.reservio.com)
 
 ### My Skills include
 
