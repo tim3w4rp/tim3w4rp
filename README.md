@@ -1,7 +1,7 @@
 Hi 👋 My name is Martin
 =======================
 
-I'm a Web Developer working with React, TypeScript and NextJS.
+I'm a Frontend Developer working with React, TypeScript and NextJS.
 -------------
 
 * 🌍  Based in Brno, Czech republic
