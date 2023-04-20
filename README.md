@@ -6,7 +6,7 @@ I'm a Frontend Developer working with React, TypeScript and NextJS.
 
 * 🌍  Based in Brno, Czech republic
 * ✉️  You can contact me at [martin@jordan.cz](mailto:martin@jordan.cz)
-* 🚀  Currently working on [Reservio](http://www.reservio.com)
+* 🚀  Currently working on [Supernova.io](http://www.supernova.io)
 
 ### My Skills include
 
